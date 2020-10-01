@@ -382,6 +382,7 @@
 - [Fransiscus Rolanda Malau](https://github.com/fransiscusrolandamalau)
 - [David Martel](https://github.com/davey4)
 - [Jahshaka] (https://github.com/JahshakaDEV
+- [Allen Manoj](https://github.com/allen17mv)
 - [Naseem Srour] (https://github.com/NaseemSrour)
 - [@siddharth963](https://github.com/siddharthmagadum16)
 - [Andrew Zajac](hhtps://github.com/ajzajac)
